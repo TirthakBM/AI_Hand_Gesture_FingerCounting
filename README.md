@@ -7,8 +7,7 @@ AI hand gester fingers counting project is a AI based project in which you can d
 pip install cv2
 # and
 pip install mediapipe
-# and 
-pip install autopy
+
 ```
 and if any error occurs
 ```bash
